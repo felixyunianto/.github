@@ -1,4 +1,4 @@
-<img src="./assets/img/banner.png?raw=true">
+<img src="https://github.com/felixyunianto/felixyunianto/blob/master/assets/img/banner.png?raw=true">
 ### Hi there, I'm Felix Yunianto ≧◠‿◠≦✌
 
  I'm a College student and member of [PLUGIN | Politeknik Harapan Bersama Linux User Group Indonesia](https://github.com/plugintegal)
