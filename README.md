@@ -1,6 +1,9 @@
 <img src="https://github.com/felixyunianto/felixyunianto/blob/master/assets/img/banner.png?raw=true">
 
- I'm a College student and member of [PLUGIN | Politeknik Harapan Bersama Linux User Group Indonesia](https://github.com/plugintegal)
+ Current 
+ - I'm currently a college student.
+ - Member of [PLUGIN | Politeknik Harapan Bersama Linux User Group Indonesia](https://github.com/plugintegal)
+ 
 
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=felixyunianto&layout=compact&theme=algolia&bg_color=#e9e9e9" />
 
