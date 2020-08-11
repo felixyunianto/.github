@@ -4,4 +4,3 @@
 
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=felixyunianto&layout=compact&theme=gruvbox" />
 
-<img align="" alt="felixyunianto" src="https://github-readme-stats.vercel.app/api?username=felixyunianto&show_icons=true&hide_brorder=true&theme=gruvbox"/>
